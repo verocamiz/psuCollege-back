@@ -1,0 +1,6 @@
+@psuCollege_HostAddress = http://localhost:5096
+
+GET {{psuCollege_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
