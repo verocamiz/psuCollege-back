@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("psuCollege")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d0cd72f9b24fb37ab4cc12369c88be5531de344")]
 [assembly: System.Reflection.AssemblyProductAttribute("psuCollege")]
 [assembly: System.Reflection.AssemblyTitleAttribute("psuCollege")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

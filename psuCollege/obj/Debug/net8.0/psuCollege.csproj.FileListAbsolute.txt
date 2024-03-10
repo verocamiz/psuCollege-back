@@ -37,3 +37,4 @@ C:\Users\veroc\source\repos\psuCollege\psuCollege\obj\Debug\net8.0\refint\psuCol
 C:\Users\veroc\source\repos\psuCollege\psuCollege\obj\Debug\net8.0\psuCollege.pdb
 C:\Users\veroc\source\repos\psuCollege\psuCollege\obj\Debug\net8.0\psuCollege.genruntimeconfig.cache
 C:\Users\veroc\source\repos\psuCollege\psuCollege\obj\Debug\net8.0\ref\psuCollege.dll
+C:\Users\veroc\source\repos\psuCollege\psuCollege\obj\Debug\net8.0\psuCollege.sourcelink.json
